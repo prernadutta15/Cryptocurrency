@@ -2,6 +2,15 @@
 
 ## SNAPSHOTS
 
+![proof_of_stake](https://user-images.githubusercontent.com/63841770/90317011-fd147280-df43-11ea-915e-b19bddc57816.png)
+
+![mine_trans](https://user-images.githubusercontent.com/63841770/90317020-0ac9f800-df44-11ea-80cd-990951b4a4e2.png)
+
+![demo_transaction](https://user-images.githubusercontent.com/63841770/90317022-0bfb2500-df44-11ea-90eb-a0f530555694.png)
+
+![sharing](https://user-images.githubusercontent.com/63841770/90317023-0c93bb80-df44-11ea-9476-50bb1cba7a3d.png)
+
+![home_page_blockchain](https://user-images.githubusercontent.com/63841770/90317024-0dc4e880-df44-11ea-965d-25186d3ab407.png)
 
 
 ## What Is Cryptocurrency?
